@@ -1,0 +1,17 @@
+{
+  "Books": [
+    {
+      "Author": "John Doe",
+      "Title": "Data Structures",
+      "Annotation": "DS for beginners",
+      "Qualification": "Beginers"
+    },
+    {
+      "Author": "Alexandre Dumas",
+      "Title": "Count of the Monte Christo",
+      "Annotation": "Classics for general knowledge",
+      "Qualification": "16\u002B"
+    }
+  ],
+  "Readers": []
+}
