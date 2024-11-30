@@ -167,13 +167,23 @@ namespace lr_03oop_wpf
         }
 
         
-        private void SearchBooks(string keyword)
+        private void SearchBooks(string query)
         {
-            var filtered = _libraryData.Books
-                .Where(b => b.Author.Contains(keyword, StringComparison.OrdinalIgnoreCase) ||
-                            b.Title.Contains(keyword, StringComparison.OrdinalIgnoreCase))
-                .ToList();
-            dataGridView.DataSource = filtered;
+            if (string.IsNullOrWhiteSpace(query))
+            {
+                dataGridView.DataSource = _libraryData.Books;
+                return;
+            }
+
+            var filteredBooks = _libraryData.Books.Where(book =>
+                    book.Author.Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                    book.Title.Contains(query, StringComparison.OrdinalIgnoreCase) ||
+                    book.Qualification.Contains(query, StringComparison.OrdinalIgnoreCase) // Пошук за Qualification
+            ).ToList();
+
+            dataGridView.DataSource = null;
+            dataGridView.DataSource = filteredBooks;
         }
+
     }
 }

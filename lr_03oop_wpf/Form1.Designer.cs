@@ -29,7 +29,7 @@
             
             // DataGridView
             this.dataGridView.Location = new System.Drawing.Point(12, 37);
-            this.dataGridView.Size = new System.Drawing.Size(845, 270);
+            this.dataGridView.Size = new System.Drawing.Size(850, 270);
 
             // SearchTextBox
             this.searchTextBox.Location = new System.Drawing.Point(12, 320);

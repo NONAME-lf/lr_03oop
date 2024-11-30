@@ -7,7 +7,30 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5b59e5e-d876-4cf7-9b34-2fc016cf4147" name="Changes" comment="" />
+    <list default="true" id="c5b59e5e-d876-4cf7-9b34-2fc016cf4147" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/lr_03oop_wpf/data_pr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lr_03oop_wpf/gfdgfd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.sourcelink.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lr_03oop_wpf/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lr_03oop_wpf/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.lr_03oop_wpf/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.lr_03oop_wpf/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/Form1.Designer.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/Form1.Designer.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/Form1.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/Form1.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/LibraryData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/LibraryData.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/bin/Debug/net8.0-windows/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/bin/Debug/net8.0-windows/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/bin/Debug/net8.0-windows/empty.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/empty.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/bin/Debug/net8.0-windows/lr_03oop_wpf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/bin/Debug/net8.0-windows/lr_03oop_wpf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/bin/Debug/net8.0-windows/lr_03oop_wpf.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/bin/Debug/net8.0-windows/lr_03oop_wpf.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/bin/Debug/net8.0-windows/lr_03oop_wpf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/bin/Debug/net8.0-windows/lr_03oop_wpf.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/data.json" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/data.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/apphost.exe" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/apphost.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.csproj.FileListAbsolute.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/lr_03oop_wpf.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/ref/lr_03oop_wpf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/ref/lr_03oop_wpf.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/refint/lr_03oop_wpf.dll" beforeDir="false" afterPath="$PROJECT_DIR$/lr_03oop_wpf/obj/Debug/net8.0-windows/refint/lr_03oop_wpf.dll" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,28 +39,47 @@
   <component name="DpaMonitoringSettings">
     <option name="firstShow" value="false" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "NONAME-lf"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/NONAME-lf/lr_03oop.git",
+    "accountId": "13b1839f-674e-49ab-b46a-b4d3e7f65fa6"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
   <component name="ProjectId" id="2pWDfqQ3Xa2eNaSsdCMtj7p9h0J" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;.NET Project.lr_03oop_wpf.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;dotNetConsole&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    ".NET Project.lr_03oop_wpf.executor": "Run",
+    "Notification.DisplayName-DoNotAsk-WinFormsDesigner": "Windows Forms Designer",
+    "Notification.DoNotAsk-WinFormsDesigner": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "dotNetConsole",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="lr_03oop_wpf" type="DotNetProject" factoryName=".NET Project">
       <option name="EXE_PATH" value="" />
@@ -68,7 +110,7 @@
       <updated>1732873047026</updated>
       <workItem from="1732873047040" duration="2347000" />
       <workItem from="1732898124922" duration="2819000" />
-      <workItem from="1732954417753" duration="2578000" />
+      <workItem from="1732954417753" duration="5790000" />
     </task>
     <servers />
   </component>
